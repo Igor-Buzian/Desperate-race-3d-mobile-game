@@ -7,7 +7,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"last_search.DA949528" = "Way"
+	"last_search.DA949528" = "package manager"
 	"OpenInspectorPreview.DA949528" = "0"
 	"currentGroup.DA949528" = "all"
 }
